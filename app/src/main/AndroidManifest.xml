@@ -11,7 +11,7 @@
         android:theme="@style/Theme.ManagementMobileApp">
 
     <activity
-        android:name=".MainActiviy"
+        android:name=".MainActivity"
         android:label="@string/app_name"
         android:exported="true">
         <intent-filter>

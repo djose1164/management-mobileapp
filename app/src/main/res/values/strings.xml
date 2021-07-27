@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Management Mobile App</string>
     <string name="Hello">Hello there, how\'s it going on?</string>
+    <string name="quantity">Cantidad...</string>
+    <string name="date">Fecha...</string>
+    <string name="description">Descripcion...</string>
+    <string name="address">Direccion...</string>
 </resources>

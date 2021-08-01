@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void btn_showBills(View view) {
-        this.toastMsg("Viendo facturas");
+    public void showBills(View view) {
+        startActivity(new Intent(this, ShowBill.class));
     }
 }

@@ -5,4 +5,16 @@
     <string name="date">Fecha...</string>
     <string name="description">Descripcion...</string>
     <string name="address">Direccion...</string>
+    <string name="added_success">Factura agregada con exito!</string>
+    <string name="sold_to">Vendido a...</string>
+    <string name="phone">Telefono...</string>
+    <string name="add_bill">Anadir factura</string>
+    <string name="status">Condicion</string>
+    <string name="pendent">Pendiente</string>
+    <string name="paid">Pago</string>
+    <string-array name="typeof_search">
+        <item>Nombre</item>
+        <item>Telefono</item>
+        <item>E-mail</item>
+    </string-array>
 </resources>

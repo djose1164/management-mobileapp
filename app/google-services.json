@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897935047969",
+    "project_id": "management-mobile-app",
+    "storage_bucket": "management-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897935047969:android:75e78a925a2c17c2d01260",
+        "android_client_info": {
+          "package_name": "com.djose1164.managementmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897935047969-3d2kspp975p83codhj15b447auhjqo8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5jJqu4htSR6Fd-UV_KH0ytaOblzq_s_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897935047969-3d2kspp975p83codhj15b447auhjqo8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
